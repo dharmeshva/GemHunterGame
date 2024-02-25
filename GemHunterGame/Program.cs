@@ -30,7 +30,7 @@ class Player
 
     public void Move(char direction)
     {
-        switch (direction)
+        switch (direction) 
         {
             case 'U':
                 Position.Y--;
