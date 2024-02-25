@@ -115,7 +115,7 @@ class Board
             Console.WriteLine();
         }
         Console.WriteLine();
-    }
+    } 
 
 
     public int GetPlayerGemCount(string playerName)
